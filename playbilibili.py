@@ -1,6 +1,4 @@
-
 import csv
-import string
 import os
 
 def Play(video_id,total):    #输入了av号和总集数，默认无脑播放整个视频——B站官方有版权的暂时不行
